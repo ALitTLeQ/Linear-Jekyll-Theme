@@ -1,0 +1,6 @@
+name: Linear
+description: Linear template for Jekyll
+paginate: 10
+url: https://alittleq.github.io/HeyYZU_Web # site url
+baseurl: "/HeyYZU_Web" # apply repo name if use it under gh-pages branch
+# baseurl: null # apply null if repo name is something like username.github.io
